@@ -1,0 +1,117 @@
+<svg width="65" height="56" xmlns="http://www.w3.org/2000/svg">
+    <style>
+
+svg > path.upper_block
+{
+  fill         : rgb(48, 105, 152);
+  stroke       : black;
+  stroke-width : 2px;
+}
+
+svg > path.lower_block
+{
+  fill         : rgb(255, 212, 59);
+  stroke       : black;
+  stroke-width : 2px;
+}
+
+svg > rect.bg_block
+{
+  fill         : rgb(150, 150, 150);
+  stroke       : black;
+  stroke-width : 2px;
+}
+
+svg > circle.big_circle {
+  fill         : white;
+  stroke       : black;
+  stroke-width : 2px;
+}
+
+svg > .buttons {
+  fill         : rgb(210, 210, 210);
+  stroke       : black;
+  stroke-width : 2px;
+}
+
+    </style>
+
+      <!-- blocks -->
+
+      <rect x="10" y="17" width="45" height="22" class="bg_block" />
+
+      <path d="
+            m1 23
+            q0 -8 8 -8
+            l12 0
+            l0 -6
+            q0 -8 8 -8
+            l6 0
+            q8 0 8 8
+            l0 8
+            q0 8 -8 8
+            l-10 0
+            q-8 0 -8 8
+            l0 2
+            q0 6 -6 6
+            l-2 0
+            q-8 0 -8 -8
+            z
+            "
+            class="upper_block"
+      />
+
+      <path d="
+            m29 29
+            l-2 0
+            q-6 0 -6 6
+            l0 12
+            q0 8 8 8
+            l7 0
+            q8 0 8 -8
+            l0 -6
+            l12 0
+            q8 0 8 -8
+            l0 -10
+            q0 -8 -8 -8
+            l-3 0
+            q-6 0 -6 6
+            q0 8 -10 8
+            z
+            "
+            class="lower_block"
+      />
+
+      <!-- circles -->
+
+      <circle cx="35" cy="8" r="4" class="big_circle" />
+      <circle cx="29" cy="48" r="4" class="big_circle" />
+
+      <!-- directional cross -->
+
+      <path d="
+            m8 18
+            l4 0
+            l0 4
+            l4 0
+            l0 4
+            l-4 0
+            l0 4
+            l-4 0
+            l0 -4
+            l-4 0
+            l0 -4
+            l4 0
+            l0 -4
+            z
+            "
+            class="buttons"
+      />
+
+      <!-- small buttons (circles) -->
+
+      <circle cx="55" cy="21" r="3" class="buttons" />
+
+      <circle cx="55" cy="31" r="3" class="buttons" />
+
+</svg>

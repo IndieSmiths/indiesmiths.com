@@ -1,0 +1,25 @@
+{
+  'index.html': {
+    'title': 'Home | indiepython.com',
+    'keywords': 'home, landing page, Indie Python, projects, programming, Python, pygame, Python programming language, Kennedy Richard',
+    'description': 'Indie Python: promoting fun and learning by publishing and maintaining independent Python open-source apps, games and related content.',
+  },
+  'about.html': {
+    'title': 'About | indiepython.com',
+    'keywords': 'about, Indie Python, projects, programming, Python, pygame, Python programming language, Kennedy Richard',
+    'description': 'Page with info about the Indie Python project.',
+  },
+  'discord.html': {
+    'title': 'Indie Python discord server | indiepython.com',
+    'keywords': 'Discord, discord server, Indie Python, projects, programming, Python, pygame, Python programming language, Kennedy Richard',
+    'description': 'Links to Indie Python discord server.',
+  },
+  'donate.html': {
+    'title': 'Donate | indiepython.com',
+    'keywords': 'donate, patreon, Indie Python, projects, programming, Python, pygame, Python programming language, Kennedy Richard',
+    'description': 'Donate to the Indie Python project.',
+  },
+  'local-commits': 'https://drive.google.com/drive/folders/1jQB14lW__Vz1fyAj9khM8nhAKB__Sl3-?usp=sharing',
+  'discord': '../discord.html',
+  'donate': '../donate.html',
+}
