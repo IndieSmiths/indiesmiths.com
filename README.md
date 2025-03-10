@@ -1,4 +1,4 @@
-# Script and content for generating static website for https://indiepython.com
+# Script and content for generating static website for https://indiesmiths.com
 
 Just execute the generate.py script like this in this folder:
 

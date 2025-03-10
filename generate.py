@@ -1,6 +1,6 @@
-"""Script for generating Indie Python's static website.
+"""Script for generating Indie Smiths's static website.
 
-https://indiepython.com
+https://indiesmiths.com
 """
 
 ### standard library imports
