@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="199.91mm" height="199.91mm" version="1.1" viewBox="0 0 199.91 199.91" xmlns="http://www.w3.org/2000/svg">
+ <rect width="199.91" height="199.91" fill="#f3f3ff" stroke="#1d3f5b" stroke-width="8.3206"/>
+ <rect x="27.08" y="16.834" width="145.75" height="73.034" rx="13.131" ry="12.375" fill="#ffe873" stroke="#1d3f5b" stroke-width="6.9544"/>
+ <g transform="matrix(1.5179 0 0 1.5179 30.566 -145.4)" fill="#1d3f5b" stroke-width="1.129">
+  <rect x="17.878" y="116.73" width="10.806" height="29.106" rx="0" ry="0"/>
+  <rect transform="rotate(90)" x="125.88" y="-37.833" width="10.806" height="29.106" rx="0" ry="0"/>
+ </g>
+ <g transform="matrix(1.5999 0 0 1.5999 91.674 -161.22)" fill="#1d3f5b" stroke-width="1.129">
+  <circle cx="27.092" cy="123.98" r="5.1015"/>
+  <circle cx="27.092" cy="143.32" r="5.1015"/>
+  <g transform="rotate(90,27.092,133.65)">
+   <circle cx="27.092" cy="123.98" r="5.1015"/>
+   <circle cx="27.092" cy="143.32" r="5.1015"/>
+  </g>
+ </g>
+ <rect transform="rotate(90)" x="90.293" y="-120.59" width="93.593" height="41.264" rx="0" ry="0" fill="#d38d5f" stroke="#1d3f5b" stroke-width="8"/>
+</svg>
