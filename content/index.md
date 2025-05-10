@@ -1,6 +1,11 @@
-<h1>Welcome</h1>
+authors: Kennedy Richard S. Guerra
+keywords: home
+          landing page
+description: Indie Smiths: promoting and providing fun, learning and value by publishing and maintaining open-source apps, games and content.
 
-<p>I'm <a href="https://kennedyrichard.com/about.html">Kennedy</a>, maintainer of the Indie Smiths project. Here's the apps/games we've published/aim to publish:</p>
+# Welcome
+
+I'm [Kennedy](https://kennedyrichard.com/about.html), maintainer of the Indie Smiths project. Here's the apps/games we've published/aim to publish:
 
 <section class="d-flex flex-wrap bg-light">
 

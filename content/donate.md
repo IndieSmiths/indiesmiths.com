@@ -1,12 +1,20 @@
-<h1>Help support the Indie Smiths project</h1>
+authors: Kennedy Richard S. Guerra
+keywords: donate
+          patreon
+          GitHub sponsors
+          liberapay
+          Ko-fi
+description: Donate to the Indie Smiths project.
 
-<p>Your support to the Indie Smiths project is crucial to ensure the maximum amount of time is dedicated to the apps and games published and maintained.</p>
+# Help support the Indie Smiths project
+
+Your support to the Indie Smiths project is crucial to ensure the maximum amount of time is dedicated to the apps and games published and maintained.
 
 <img class="img-fluid mx-auto d-block" alt="Mosaic of Indie Smiths projects screenshots" src="https://i.imgur.com/HfiWJaw.png" />
 
-<h2>Methods</h2>
+## Methods
 
-<p>There are many ways to support the Indie Smiths project and its apps/games with donations:</p>
+There are many ways to support the Indie Smiths project and its apps/games with donations:
 
 <div style="max-width:530px;">
 <table class="table table-bordered">
@@ -58,26 +66,26 @@
 
 <div class="alert alert-warning"> Any amount is welcome and greatly appreciated.</div>
 
-<h2>Benefits</h2>
+## Benefits
 
-<p>Supporting us with a recurring donation gives you access to <strong>exclusive discord channels</strong> and <strong>voting rights</strong> on specific pools related to our apps/game projects.</p>
+Supporting us with a recurring donation gives you access to **exclusive discord channels** and **voting rights** on specific pools related to our apps/game projects.
 
-<p>Recurring donation options other than patreon are likely to apply a smaller fee in comparison. If you opt for a recurring donation other than patreon, talk to me on discord so I can set up your discord benefit.</p>
+Recurring donation options other than patreon are likely to apply a smaller fee in comparison. If you opt for a recurring donation other than patreon, talk to me on discord so I can set up your discord benefit.
 
-<p>Github sponsors and Ko-fi also offer recurring crowdfunding. Since such platforms are great for one time donations, expect to see links to them spread throughout Indie Smiths content in strategic non-disrupting spots.</p>
+Github sponsors and Ko-fi also offer recurring crowdfunding. Since such platforms are great for one time donations, expect to see links to them spread throughout Indie Smiths content in strategic non-disrupting spots.
 
 
-<h2>More donation methods</h2>
+## More donation methods
 
-<p>If there is another method of your preference, please, contact us by <a href="mailto:kennedy@kennedyrichard.com">email</a> (kennedy@kennedyrichard.com) so that we can discuss it and maybe even make the method available here.</p>
+If there is another method of your preference, please, contact us by [email](mailto:kennedy@kennedyrichard.com) (kennedy@kennedyrichard.com) so that we can discuss it and maybe even make the method available here.
 
 
 <h2 id="donations-via-pix">One-time donations via PIX (only in Brazil)</h2>
 
-<p>This option is only available in Brazil, which is why the rest of this subsection is in Brazilian Portuguese.</p>
+This option is only available in Brazil, which is why the rest of this subsection is in Brazilian Portuguese.
 
-<p>Para doar usando o PIX, basta apontar o app do seu banco para o QR code abaixo:</p>
+Para doar usando o PIX, basta apontar o app do seu banco para o QR code abaixo:
 
 <img src="images/qr_code_donation.png" alt="QR Code para doar para o projeto Indie Smiths via PIX" />
 
-<p>A doação será feita para minha conta no Banco do Brasil que está no meu nome, Kennedy Richard Silva Guerra. Qualquer quantia é bem-vinda.</p>
+A doação será feita para minha conta no Banco do Brasil que está no meu nome, Kennedy Richard Silva Guerra. Qualquer quantia é bem-vinda.
