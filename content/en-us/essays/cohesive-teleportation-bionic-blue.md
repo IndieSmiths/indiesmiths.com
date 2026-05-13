@@ -14,7 +14,7 @@ include-comment-section: True
 
 As an open-source maintainer with a few projects, it is not easy to find time to make all game elements cohesive. But, sometimes I have to risk not meeting specific deadlines in favor of making the game world just a tad more believable. Today I wanted to share how I tried to do this for the action of teleporting in and out of a mission area (level).
 
-As seen below, the first thing that happens at the beginning of a mission is Blue teleporting into and out of the mission's area. Notice the satellite dish near the spot where he lands.
+As seen below, the first thing that happens at the beginning of a mission is Blue teleporting into the mission's area. Notice the satellite dish near the spot where he lands.
 
 <img class="mx-auto d-block" alt="Animated GIF showing Blue teleporting into the mission area next to a satellite dish." src="https://i.imgur.com/yC9XleP.gif" />
 
