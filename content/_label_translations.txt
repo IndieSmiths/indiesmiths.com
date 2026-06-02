@@ -16,12 +16,12 @@ page
         header_text
 
             en-us Indie Smiths: fun, learning and value from open-source apps, games and related content
-            pt-br 
+            pt-br Indie Smiths: diversão, aprendizagem e valor advindos de aplicativos de código aberto, jogos e conteúdo relacionado
 
         logo_alt
 
-            en-us Indie Smiths's logo symbol
-            pt-br Logo (isotipo) de Kennedy R. S. Guerra
+            en-us Indie Smiths project's logo symbol
+            pt-br Logo (isotipo) do projeto Indie Smiths
 
         home
 
